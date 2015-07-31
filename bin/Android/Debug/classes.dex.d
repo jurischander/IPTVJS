@@ -1,0 +1,25 @@
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes.dex : \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\dawsonloudon\videoplayer\VideoPlayer.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$1.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$2.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard$3.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionic\keyboard\IonicKeyboard.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionicframework\iptvjs137082\BuildConfig.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionicframework\iptvjs137082\MainActivity.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionicframework\iptvjs137082\R$attr.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionicframework\iptvjs137082\R$drawable.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionicframework\iptvjs137082\R$string.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionicframework\iptvjs137082\R$xml.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\com\ionicframework\iptvjs137082\R.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$1.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$2.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$3.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$4.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$5$1.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$5.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$6$1.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$6.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen$7.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\classes\org\apache\cordova\splashscreen\SplashScreen.class \
+C:\Work\Projects\Cordova_VS\IPTVJS\platforms\android\ant-build\dexedLibs\classes-5502c260963aa2e7d3f275467ab277f9.jar \
